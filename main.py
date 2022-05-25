@@ -1,10 +1,2 @@
-a = 2
-b = 5
-print(a + b)
+# Here we will clean datasets
 
-resultado = a + b
-print(resultado)
-
-print(resultado * 10)
-
-# we will clean datasets
