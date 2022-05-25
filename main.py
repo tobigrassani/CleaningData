@@ -13,3 +13,7 @@ dataset = pd.read_csv("Student Mental health.csv")
 print(dataset.head(10))
 
 # Analyzing dataset
+print(dataset.info())
+print(pd.isna(dataset))
+
+# Age column has a null entry
