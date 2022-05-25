@@ -5,8 +5,11 @@
 
 import pandas as pd
 import numpy as np
+import seaborn as sns
 
 # Reading dataset
 
 dataset = pd.read_csv("Student Mental health.csv")
 print(dataset.head(10))
+
+# Analyzing dataset
