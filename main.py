@@ -6,3 +6,5 @@ resultado = a + b
 print(resultado)
 
 print(resultado * 10)
+
+# we will clean datasets
