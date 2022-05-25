@@ -4,3 +4,5 @@ print(a + b)
 
 resultado = a + b
 print(resultado)
+
+print(resultado * 10)
