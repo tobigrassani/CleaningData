@@ -3,7 +3,12 @@
 #### - Enrique Havenstein (@EnriqueHavenstein)
 #### - Tobias Grassani (@TobiGrassani)
 
-### Technologies Applyed
+### Technologies Applied
 #### Python
 #### Jupyter Notebook
+
+### Libraries Used
+#### Pandas
+#### NumPy
+
 
