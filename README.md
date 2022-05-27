@@ -5,10 +5,10 @@
 
 ### Technologies Applied
 #### Python
-#### Jupyter Notebook
+#### Jupyter Lab
 
 ### Libraries Used
 #### Pandas
 #### NumPy
-
-
+#### Matplotlib
+#### Seaborn
